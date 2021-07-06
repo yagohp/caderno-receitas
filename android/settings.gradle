@@ -1,0 +1,2 @@
+rootProject.name = "Caderno de Receitas"
+include ':app'
